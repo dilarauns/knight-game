@@ -1,0 +1,20 @@
+--------------------------------------Sovalyeler---------------------------------------------
+Isim: Sovalye1   ID: 1   Sovalye durumu: guclu sovalye   Vurus sayisi: 1   Durum: Sovalye pasif
+Isim: Sovalye2   ID: 2   Sovalye durumu: zayif sovalye   Vurus sayisi: 1   Durum: sovalye aktif
+Isim: Sovalye3   ID: 2   Sovalye durumu: zayif sovalye   Vurus sayisi: 1   Durum: sovalye aktif
+Isim: Sovalye4   ID: 1   Sovalye durumu: guclu sovalye   Vurus sayisi: 1   Durum: Sovalye pasif
+Isim: Sovalye5   ID: 1   Sovalye durumu: guclu sovalye   Vurus sayisi: 1   Durum: Sovalye pasif
+Isim: Sovalye6   ID: 2   Sovalye durumu: zayif sovalye   Vurus sayisi: 1   Durum: sovalye aktif
+Isim: Sovalye7   ID: 1   Sovalye durumu: guclu sovalye   Vurus sayisi: 1   Durum: Sovalye pasif
+Isim: Sovalye8   ID: 1   Sovalye durumu: guclu sovalye   Vurus sayisi: 1   Durum: Sovalye pasif
+Isim: Sovalye9   ID: 2   Sovalye durumu: zayif sovalye   Vurus sayisi: 1   Durum: sovalye aktif
+Isim: Sovalye10   ID: 2   Sovalye durumu: zayif sovalye   Vurus sayisi: 1   Durum: sovalye aktif
+--------------------------------------Dusmanlar---------------------------------------------
+Isim: Dusman1   ID: 1   Sovalye durumu: guclu dusman   Durum: Dusman aktif
+Isim: Dusman2   ID: 1   Sovalye durumu: guclu dusman   Durum: Dusman pasif
+Isim: Dusman3   ID: 1   Sovalye durumu: guclu dusman   Durum: Dusman pasif
+Isim: Dusman4   ID: 1   Sovalye durumu: guclu dusman   Durum: Dusman aktif
+Isim: Dusman5   ID: 1   Sovalye durumu: guclu dusman   Durum: Dusman aktif
+Isim: Dusman6   ID: 1   Sovalye durumu: guclu dusman   Durum: Dusman pasif
+Isim: Dusman7   ID: 2   Sovalye durumu: zayif dusman   Durum: Dusman aktif
+Isim: Dusman8   ID: 2   Sovalye durumu: zayif dusman   Durum: Dusman aktif

@@ -1,0 +1,21 @@
+-----------------------------------------------------------
+Sovalye2 ile Dusman1 savasiyor. 
+Dusman1 kazandi. Dusman da Sovalye de siliniyor.
+-----------------------------------------------------------
+-----------------------------------------------------------
+Sovalye6 ile Dusman8 savasiyor. 
+Sovalye6 kazandi.
+Sovalye6'nin 0 hakki kaldi. Sovalye silindi.
+Dusman8 silindi.
+-----------------------------------------------------------
+-----------------------------------------------------------
+Sovalye9 ile Dusman7 savasiyor. 
+Sovalye9 kazandi.
+Sovalye9'nin 0 hakki kaldi. Sovalye silindi.
+Dusman7 silindi.
+-----------------------------------------------------------
+-----------------------------------------------------------
+Sovalye3 ile Dusman4 savasiyor. 
+Dusman4 kazandi. Dusman da Sovalye de siliniyor.
+-----------------------------------------------------------
+Sovalyeler kazandi.
